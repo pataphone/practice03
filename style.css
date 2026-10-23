@@ -65,8 +65,9 @@
 }
 
 .text {
-    justify-content: space-evenly;
     flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
     flex: 1 1;
 }
 
